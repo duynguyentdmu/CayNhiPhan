@@ -1,0 +1,25 @@
+﻿main.obj : error LNK2005: "void __cdecl freenode(struct node *)" (?freenode@@YAXPAUnode@@@Z) already defined in dslkdon-thien.obj
+main.obj : error LNK2005: "struct node * __cdecl getnode(void)" (?getnode@@YAPAUnode@@XZ) already defined in dslkdon-thien.obj
+main.obj : error LNK2005: _main already defined in dslkdon-thien.obj
+dslkdon.obj : error LNK2005: "struct node * __cdecl Max(struct node * *)" (?Max@@YAPAUnode@@PAPAU1@@Z) already defined in dslkdon-thien.obj
+dslkdon.obj : error LNK2005: "struct node * __cdecl Min(struct node * *)" (?Min@@YAPAUnode@@PAPAU1@@Z) already defined in dslkdon-thien.obj
+dslkdon.obj : error LNK2005: "void __cdecl clearlist(struct node * *)" (?clearlist@@YAXPAPAUnode@@@Z) already defined in dslkdon-thien.obj
+dslkdon.obj : error LNK2005: "struct sinhvien __cdecl delafter(struct node *)" (?delafter@@YA?AUsinhvien@@PAUnode@@@Z) already defined in dslkdon-thien.obj
+dslkdon.obj : error LNK2005: "int __cdecl empty(struct node * *)" (?empty@@YAHPAPAUnode@@@Z) already defined in dslkdon-thien.obj
+dslkdon.obj : error LNK2005: "void __cdecl freenode(struct node *)" (?freenode@@YAXPAUnode@@@Z) already defined in dslkdon-thien.obj
+dslkdon.obj : error LNK2005: "struct node * __cdecl getnode(void)" (?getnode@@YAPAUnode@@XZ) already defined in dslkdon-thien.obj
+dslkdon.obj : error LNK2005: "void __cdecl initialize(struct node * *)" (?initialize@@YAXPAPAUnode@@@Z) already defined in dslkdon-thien.obj
+dslkdon.obj : error LNK2005: "void __cdecl insafter(struct node *,struct sinhvien)" (?insafter@@YAXPAUnode@@Usinhvien@@@Z) already defined in dslkdon-thien.obj
+dslkdon.obj : error LNK2005: "int __cdecl listsize(struct node * *)" (?listsize@@YAHPAPAUnode@@@Z) already defined in dslkdon-thien.obj
+dslkdon.obj : error LNK2005: "struct node * __cdecl nodepointer(struct node * *,int)" (?nodepointer@@YAPAUnode@@PAPAU1@H@Z) already defined in dslkdon-thien.obj
+dslkdon.obj : error LNK2005: "void __cdecl place(struct node * *,struct sinhvien)" (?place@@YAXPAPAUnode@@Usinhvien@@@Z) already defined in dslkdon-thien.obj
+dslkdon.obj : error LNK2005: "struct sinhvien __cdecl pop(struct node * *)" (?pop@@YA?AUsinhvien@@PAPAUnode@@@Z) already defined in dslkdon-thien.obj
+dslkdon.obj : error LNK2005: "int __cdecl position(struct node * *,struct node *)" (?position@@YAHPAPAUnode@@PAU1@@Z) already defined in dslkdon-thien.obj
+dslkdon.obj : error LNK2005: "struct node * __cdecl prenode(struct node * *,struct node *)" (?prenode@@YAPAUnode@@PAPAU1@PAU1@@Z) already defined in dslkdon-thien.obj
+dslkdon.obj : error LNK2005: "void __cdecl push(struct node * *,struct sinhvien)" (?push@@YAXPAPAUnode@@Usinhvien@@@Z) already defined in dslkdon-thien.obj
+dslkdon.obj : error LNK2005: "struct node * __cdecl search(struct node * *,class std::basic_string<char,struct std::char_traits<char>,class std::allocator<char> >)" (?search@@YAPAUnode@@PAPAU1@V?$basic_string@DU?$char_traits@D@std@@V?$allocator@D@2@@std@@@Z) already defined in dslkdon-thien.obj
+dslkdon.obj : error LNK2005: "void __cdecl selectionsort(struct node * *)" (?selectionsort@@YAXPAPAUnode@@@Z) already defined in dslkdon-thien.obj
+dslkdon.obj : error LNK2005: "void __cdecl traverse(struct node * *)" (?traverse@@YAXPAPAUnode@@@Z) already defined in dslkdon-thien.obj
+dslkdon.obj : error LNK2005: _main already defined in dslkdon-thien.obj
+dslkdon.obj : error LNK2005: "struct node * * plist" (?plist@@3PAPAUnode@@A) already defined in dslkdon-thien.obj
+D:\PROJECT VISUAL\BAITAPLON\1524801030073\CAU TRUC DU LIEU\CAY NHI PHAN\CAY NHI PHAN (QUAN LI CHUOI KI TU)\CAYNHIPHANQUANLICHUOI\CAYNHIPHAN\Debug\CAYNHIPHAN.exe : fatal error LNK1169: one or more multiply defined symbols found
